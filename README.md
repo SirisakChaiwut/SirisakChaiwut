@@ -41,4 +41,4 @@
 ---
 
 ### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://outlook.office.com/mail/deeplink/compose?to=68021322@up.ac.th)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](https://outlook.office.com/mail/deeplink/compose?to=68021322@up.ac.th)
